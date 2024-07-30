@@ -1,4 +1,4 @@
-this is code for Q&A system to deliver seamless, book-based answers to complex user queries. The book I have used is “Hubble Focus: The Dark Universe," a NASA Hubble Space Telescope downloadable e-book. Here's a sneak peek into the key components of this project:
+This project involves developing a Q&A system designed to provide seamless, book-based answers to complex user queries. The system utilizes the book "Hubble Focus: The Dark Universe," a downloadable e-book from NASA's Hubble Space Telescope. Here's a sneak peek into the key components of this project:
 
 🔍 TransformQueryEngine by LlamaIndex: This powerhouse enables advanced query transformation, ensuring that even the most intricate questions are handled with precision.
 
